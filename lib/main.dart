@@ -110,7 +110,7 @@ class _MyBagState extends State<MyBag> {
         padding: const EdgeInsets.all(16.0),
         child: Row(
           children: [
-            Image.asset('assets/t_shirts.png'),
+            Image.asset('assets/t_shirts.jpg'),
             SizedBox(width: 16.0),
             Expanded(
               child: Column(
